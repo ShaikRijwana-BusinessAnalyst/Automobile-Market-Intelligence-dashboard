@@ -167,19 +167,6 @@ Raw Source Data (Excel) → Power Query ETL → Star Schema Data Model → DAX M
 
 ---
 
-## Repository Structure
-automobile-market-intelligence/
-│
-├── 📊 Automobile_Market_Intelligence.pbix     # Power BI dashboard file
-├── 📁 data/
-│   └── automobile_sales_data.xlsx             # Cleaned dataset — Units, Revenue, R&D, EBITDA, Production
-├── 📁 images/
-│   └── dashboard_preview.png                  # Full dashboard screenshot
-├── 🎥 dashboard_walkthrough.mp4               # 2-minute strategic storytelling video
-└── 📄 README.md                               # This document
-
----
-
 ## About This Analysis
 
 This dashboard was engineered as a **strategic decision engine** — not a reporting tool. Every visual maps to a specific business question. Every DAX measure solves a specific analytical failure mode. Every recommendation ties to a quantified P&L outcome.
