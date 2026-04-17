@@ -38,11 +38,11 @@ Indian OEMs face a convergence of pressures: rising input costs, an accelerating
 
 ---
 
-## 📺 Storytelling Walkthrough (2-Min Video)
+## 📺 Storytelling Walkthrough 
 
-[![Watch the Dashboard Walkthrough](images/dashboard_preview.png)](YOUR_VIDEO_URL_HERE)
+[![Watch the Dashboard Walkthrough]](https://drive.google.com/file/d/1n4aBm0qw7th-XufCWwPIUxtCxCHDd40L/view?usp=drivesdk)
 
-> Click to watch the **2-minute strategic walkthrough** — covering the ₹2T market framing, DAX engineering logic, the North saturation insight, and three board-ready recommendations.
+> Click to watch the **strategic walkthrough** — covering the ₹2T market framing, DAX engineering logic, the North saturation insight, and three board-ready recommendations.
 
 ---
 
